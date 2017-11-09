@@ -7,7 +7,7 @@ I would say that a command line is similar to giving a person directions on the 
 
 1. pwd - shows you exactly where you are on the map right now
 2. cd - shows you where you will be next
-3.cd ~ - takes you back to where you started 
+3. cd ~ - takes you back to where you started 
 4. Ls -  gives you more details about your current location, the surrounding sites, and points of interest
 5. mkdir - you can create a interesting buidling or landmark
 6. rmdir - you can remove an interesting building, or landmark
